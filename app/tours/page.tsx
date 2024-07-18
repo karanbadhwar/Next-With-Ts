@@ -13,6 +13,11 @@ type Tour = {
 };
 
 const fetchTours = async () => {
+  console.log("################################");
+  console.log("FETCHING TOURS!!");
+
+  console.log("################################");
+
   //Delaying the process on purpose!
   await new Promise((resolve) => setTimeout(resolve, 3000));
 

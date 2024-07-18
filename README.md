@@ -1170,6 +1170,3 @@ export const config = {
 
 - [Vercel Video](https://www.youtube.com/watch?v=VBlSe8tvg4U)
 - [Docs](https://nextjs.org/docs/app/building-your-application/caching)
-  #   N e x t - W i t h - T s 
-   
-   
